@@ -9,11 +9,8 @@ Iska kaam kya hai?
 Jab aap <bits/stdc++.h> include karte ho, to C++ ki zyadatar standard libraries ek saath include ho jaati hain, jaise:
 
 Input/output ke liye: <iostream>
-
-## Container classes ke liye:  <vector>,   <map>,   <set>,  <deque>
-
+Container classes ke liye:  <vector>,   <map>,   <set>,  <deque>
 Algorithms ke liye: <algorithm>
-
 Mathematical functions ke liye: <cmath>, <numeric>
 
 Aur bhi kai libraries...
