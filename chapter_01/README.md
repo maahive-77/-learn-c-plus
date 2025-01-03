@@ -45,4 +45,3 @@ For example, <iostream> must be included to use std::cin and std::cout.
 The execution of code begins from the main() function.
 It is a good practice to use Indentation and comments in programs for easy understanding.
 cout is used to print statements and cin is used to take inputs.
- 
